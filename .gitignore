@@ -3,6 +3,9 @@ cli-proxy-api
 cliproxy
 *.exe
 
+# Reference repository (upstream)
+CLIProxyAPI/
+
 # Configuration
 config.yaml
 .env
